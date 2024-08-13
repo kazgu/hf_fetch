@@ -33,6 +33,7 @@ setuptools.setup(
     entry_points={  # Optional
     'console_scripts': [
          'hf-fetch=hf_fetch.hf_fetch:main',
+         'hf-fetchm=hf_fetch.hf_fetch:main2',
     ],
 },
 package_data={}
