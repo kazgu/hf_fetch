@@ -8,7 +8,7 @@ pip install .
 
 ```
 hf-fetch -h
-```
+
 usage: hf-fetch [-h] [-repo REPO] [-base BASE] [-o O]
 
 huggingface model downoader
@@ -18,7 +18,7 @@ options:
   -repo REPO  huggingface model,like xxx/yyyy
   -base BASE  proxy
   -o O        output path
-
+```
 
 ## usage
 
